@@ -46,6 +46,6 @@ I need to learn all Sec+ terms in Quizlet set this week.
 
 I've also been brainstorming on potential projects to work on. I think a portfolio website is a good place to start. I also want to try coding web app games.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
