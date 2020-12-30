@@ -5,7 +5,7 @@
 Days 1-10 are very sporadic, and the assignments I was working on at the time were convoluted. 
 
 Starting on Day 11, documentation will be consistent & projects will be concise. 
-*** NOTE ***
+
 
 
 ### Day 1: 11/2/20
