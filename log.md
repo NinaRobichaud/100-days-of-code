@@ -1,30 +1,51 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+*** NOTE ***
+Days 1-10 are very sporadic, and the assignments I was working on at the time were convoluted. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Starting on Day 11, documentation will be consistent & projects will be concise. 
+*** NOTE ***
 
 
-### Day 1: June 27, Monday
+### Day 1: 11/2/20
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Working on a #javascript lab with classmates. Figuring out how to code Tic Tac Toe
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 2: 11/3/20
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Still working on JS tic tac toe assignment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 3 & 4: 12/4/20
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Finished JS labs, made some changes to fix broken code. User inputs weren't displaying, added id tags to buttons so document.querySelector would work properly. Also working on my final project, and learned how to make template strings!
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 5: 12/5/20
+
+**Today's Progress**: Working on class project Woman technologist coded loops, if-else if statement, switch case and single array. Checked those off the rubric White heavy check mark
+
+Do while loop is yielding undefined result, not sure why Thinking face will debug tomorrow Lady beetle
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 6: 12/11/20
+
+**Today's Progress**: Finished a project for class, made it to 40% completion in an Udemy JS course Woman technologist
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 7, 8, 9, 10: 12/22/20
+
+**Today's Progress**: Still working on JS tic tac toe assignment
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 11: 12/29/20 Tuesday
+
+**Today's Progress**: Still going through basic CSS in freeCodeCamp's Responsive Web Design certification. Great refresher!
+
+I've also been studying for the Security+, I'm taking the exam on Jan 10th before the spring semester starts Dragon
+
+**Thoughts**: I forgot a lot of CSS syntax, but freeCodeCamp's setup makes it easy to relearn concepts quickly. 
+
+I need to learn all Sec+ terms in Quizlet set this week.
+
+I've also been brainstorming on potential projects to work on. I think a portfolio website is a good place to start. I also want to try coding web app games.
+
+**Link(s) to work**: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
