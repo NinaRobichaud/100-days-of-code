@@ -1,10 +1,20 @@
 # 100 Days Of Code - Log
 
+**Days 1-10 are very sporadic, and the assignments I was working on at the time were convoluted. 
 
-*** NOTE ***
-Days 1-10 are very sporadic, and the assignments I was working on at the time were convoluted. 
+**Starting on Day 11, documentation will be consistent & projects will be concise. 
 
-Starting on Day 11, documentation will be consistent & projects will be concise. 
+TEMPLATE:
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 00: 
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -45,6 +55,16 @@ I've also been studying for the Security+, I'm taking the exam on Jan 10th befor
 I need to learn all Sec+ terms in Quizlet set this week.
 
 I've also been brainstorming on potential projects to work on. I think a portfolio website is a good place to start. I also want to try coding web app games.
+
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 12: 12/30/20 Wednesday 
+
+**Today's Progress**: Started to use the official 100 Days of Code repo on GitHub, learned how to fork the repo and commit changes. A fork copies the repo so you can work on your own version. 
+
+Also continued with freeCodeCamp's CSS Basics  
+
+**Thoughts**: Had some account issues with freeCodeCamp, resolved. I also brainstormed personal project ideas, saved in Google Drive for now.
 
 **Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
