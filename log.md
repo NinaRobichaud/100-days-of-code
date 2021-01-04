@@ -68,4 +68,12 @@ Also continued with freeCodeCamp's CSS Basics
 
 **Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 13: 1/4/21 Monday 
 
+**Today's Progress**: Back to studying for the CompTIA Sec+ cert today 
+freeCodeCamp is down for maintenance, will resume the Responsive Web Design course tomorrow. 
+
+**Thoughts**: Took a few days off for New Year's
+
+**Link(s) to work**: https://quizlet.com/524948289/comptia-security-syo-501-acronyms-flash-cards/ (Quizlet flashcards I made for Sec+ terms)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
