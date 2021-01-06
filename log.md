@@ -77,3 +77,17 @@ freeCodeCamp is down for maintenance, will resume the Responsive Web Design cour
 
 **Link(s) to work**: https://quizlet.com/524948289/comptia-security-syo-501-acronyms-flash-cards/ (Quizlet flashcards I made for Sec+ terms)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 14: 1/5/21 Tues 
+
+**Today's Progress**: Used a Pomodoro timer Tomato to study for the Security+. First time trying this technique, 
+pomofocus has a great timer
+
+Finished freeCodeCamp's CSS Basics. Progress slowed down due to Sec+, but still making time for coding 
+
+**Thoughts**: Pomodoro technique is actually really useful. I was able to compartmentalize time working vs breaks. Established early stages of memorization by going through Quizlet's write-in exercise & writing out all the terms I missed on paper. 
+
+I'd like to apply the Pomodoro technique to the freeCodeCamp cert and future coding projects. I'm thinking my first coding project will be my portfolio site that includes both "neenz_codes" & "neenz_art" content. Might use my portfolio as a landing page that offers users the option to be redirected to either section. 
+
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
