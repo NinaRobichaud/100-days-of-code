@@ -108,15 +108,19 @@ Continued with Sec+ studying & freeCodeCamp's Responsive Web Design
 
 **Thoughts**: I was supposed to take the Sec+ yesterday, but I ended up moving it. I need to commit to *CONSISTENT* study habits. I've been averaging 50% on SkillProCert's practice tests :( Need to get average up to passing (85%) before I take the exam. Target date is Sunday 1/24/21.
 
-Web Design II class is going to provide real-world web design experience. Inspired to start my personal portfolio website! (Looking into using Gatsby) 
+Web Page Design II class is going to provide real-world web design experience. Inspired to start my personal portfolio website! (Looking into using Gatsby) 
 
 **Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 17: 
+### Day 17: 1/12/21 Tues
 
-**Today's Progress**: 
+**Today's Progress**: Finished freeCodeCamp's Applied Visual Design lessons, and started Applied Accessibility
 
-**Thoughts**: 
+Devs: what are your go-to accessibility website features? Would love to know! 
 
-**Link(s) to work**: 
+**Thoughts**: Tried "Toggl" web app per GirlKnowsTech. Loved this for tracking my time, and holding myself accountable! I was able to push through and make tangible progress in the freeCodeCamp course. 
+
+Tomorrow, I'd like to take the next step and start my personal portfolio site.
+
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
