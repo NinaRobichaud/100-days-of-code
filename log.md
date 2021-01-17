@@ -124,3 +124,24 @@ Tomorrow, I'd like to take the next step and start my personal portfolio site.
 
 **Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 18: 1/15/21 Fri
+
+**Today's Progress**: Finished freeCodeCamp's Applied Accessibility! A few things I learned: 
+
+☑️ Web Content Accessibility Guidelines (WCAG) recommend at least a 4.5 to 1 contrast ratio for color & grayscale 🌈🌫️
+☑️ Screen readers need specific labels for form controls ✨
+
+**Thoughts**: Started a Notion notebook for freeCodeCamp lessons. Very helpful, even formats code correctly. Will continue using this to build a personal coding reference.
+
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 19: 1/16/21 Saturday
+
+**Today's Progress**: Finished freeCodeCamp's Responsive Web Design Principles 
+
+Covered media queries, CSS-responsive images, and viewports 
+
+**Thoughts**: Consistency doesn't have to be perfect. Knocked out a small lesson from freeCodeCamp. 
+
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
