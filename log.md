@@ -145,3 +145,26 @@ Covered media queries, CSS-responsive images, and viewports
 
 **Link(s) to work**: https://www.freecodecamp.org/neenz_codes
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 20: 1/19/21 Tuesday
+
+**Today's Progress**: Finished freeCodeCamp's CSS Flexbox & Grid 
+
+Also worked on introductory UNIX assignments. I'm totally out of my element but it's really interesting
+
+**Thoughts**: 
+
+**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 21: 2/1/21 Monday
+
+**Today's Progress**: I'm back, here's what I did:
+
+Prepared a website client pitch
+Learned UNIX basics (command line navigation, file organization, vi editor)
+
+Focusing more on projects and labs lately. My next goal is to create a repository for my own website project 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
