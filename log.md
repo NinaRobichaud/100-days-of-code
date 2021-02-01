@@ -153,7 +153,7 @@ Also worked on introductory UNIX assignments. I'm totally out of my element but 
 
 **Thoughts**: 
 
-**Link(s) to work**: https://www.freecodecamp.org/neenz_codes
+**Link(s) to work**: https://github.com/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 21: 2/1/21 Monday
 
@@ -166,5 +166,5 @@ Focusing more on projects and labs lately. My next goal is to create a repositor
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
