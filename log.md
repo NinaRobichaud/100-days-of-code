@@ -220,25 +220,30 @@ Started design proofs for my first website project, will share progress pictures
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 28: 2/10/21 Wednesday
 
-**Today's Progress**: Submitted take-home UNIX I Test 1. 
+**Today's Progress**: Submitted take-home UNIX I Test 1. Reviewed UNIX basics (ie. syntax, vi editor, basic commands)
 
 **Thoughts**: This course is showing me how I can better organize complicated information, not exclusive to Unix. My web development notetaking could also benefit. 
 
 I also noticed patterns in my study habits. I need full concentration, so taking Pomodoro breaks doesn't always work for me. I'm easily distracted, and easily tempted to derail my study flow for the rest of the day. My brain feels altered after spending 10+ minutes watching YouTube or streaming that's entertainment only. Visual media is too distracting for me. 
 
-I've also decided to batch my #100DaysofCode tweets for Friday's. I'm more productive when I'm not worried about what to post on social media on a daily basis. Daily entries should only be done here on GitHub. It frees up my 'brain space' for actual coding practice & personal projects. 
+**Link(s) to work**: 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 29: 2/24/21 Wednesday
+
+**Today's Progress**: UNIX I assignment & Lab 4 completed. Learned how to create shell scripts in bash (Bourne Shell) & how to use variables.
+
+Twitter post: Additional entries can be found on my GitHub. Classes have been busy, so I've been focused on schoolwork.
+
+What I've been up to:
+✅Created a survey form webpage on CodePen
+✅UNIX fundamentals (ie. vi editor, shell scripts) 
+✅Learning JavaScript APIs & web design
+
+**Thoughts**: Small steps are still worth noting. I can do this challenge if I change my mindset.
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 29: 2/11/21 Thursday
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 30: 2/12/21 Friday
+### Day 30: 
 
 **Today's Progress**: 
 
