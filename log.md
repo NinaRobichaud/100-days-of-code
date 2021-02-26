@@ -235,9 +235,9 @@ I also noticed patterns in my study habits. I need full concentration, so taking
 Twitter post: Additional entries can be found on my GitHub. Classes have been busy, so I've been focused on schoolwork.
 
 What I've been up to:
-✅Created a survey form webpage on CodePen
-✅UNIX fundamentals (ie. vi editor, shell scripts) 
-✅Learning JavaScript APIs & web design
+✅ Created a survey form webpage on CodePen
+✅ UNIX fundamentals (ie. vi editor, shell scripts) 
+✅ Learning JavaScript APIs & web design
 
 **Thoughts**: Small steps are still worth noting. I can do this challenge if I change my mindset.
 
@@ -245,9 +245,12 @@ What I've been up to:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 30: 
 
-**Today's Progress**: 
+**Today's Progress**: I'm working on redesigning a WordPress website on the side. So far I've learned:
+✅ WordPress is a widely-used, open-source content management system (CMS)
+✅ Additional security measures need to be considered
+✅ Design options, accessibility, plugins, backup
 
-**Thoughts**: 
+**Thoughts**: Need to look more into plugins and how I can use coding skills in WordPress. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
