@@ -243,7 +243,7 @@ What I've been up to:
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 30: 
+### Day 30: 2/26/21 Friday
 
 **Today's Progress**: I'm working on redesigning a WordPress website on the side. So far I've learned:
 ✅ WordPress is a widely-used, open-source content management system (CMS)
@@ -254,27 +254,37 @@ What I've been up to:
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 31: 3/1/21 Monday
 
-**Today's Progress**: 
+**Today's Progress**: Worked on assignment for Web Page Design II course. Submitted a mock webpage of a car dealership (Sedan listing page)
 
-**Thoughts**: 
+**Thoughts**: Need more work on interactive web design. 
+
+**Link(s) to work**: Web Design II repository
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 32: 3/2/21 Tuesday
+
+**Today's Progress**: Worked on quiz for Interactive Web Design. Covered Google Maps APIs. Resource: https://developers.google.com/maps/documentation/javascript/overview
+
+**Thoughts**: Google's code example didn't work for me. Unsure why. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 33: 
 
 **Today's Progress**: 
 
-**Thoughts**: 
+Tweet: Submitted a mock webpage of a car dealership for one of my classes (on GitHub). Used HTML, CSS, and JS.
 
-**Link(s) to work**: 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+Worked on a lab for my UNIX class covering concepts/features of the Bourne Shell
 
-**Today's Progress**: 
+For me, the hardest part of #100DaysofCode is finding an area of focus. I get easily overwhelmed by the number of paths in the tech industry, and stress over which path is the 'right' one. This often leads to stagnation. 
 
-**Thoughts**: 
+Just a thought I had while reflecting
+
+**Thoughts**: Thinking about how to move forward in coding journey. I've been stuck on how to proceed with a website portfolio (WordPress verus Gatsby). I think I'm going to give Gatsby a go for my website portfolio page. I may try WordPress for a reading blog that I can maintain. That way, I can have experience w/ React & WordPress. 
+
+I've been afraid to publish a technical blog, but I should go ahead and try. It's part of learning. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
