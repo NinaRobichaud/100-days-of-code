@@ -270,7 +270,7 @@ What I've been up to:
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 33: 
+### Day 33: 3/3/21 Wednesday
 
 **Today's Progress**: 
 
@@ -288,21 +288,21 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 34: 3/8/21 Monday
 
-**Today's Progress**: 
+**Today's Progress**: Researched my options for publishing a portfolio/tech blog website. I'm going to create one on GitHub pages (https://www.youtube.com/watch?v=COxGHDYV4aY&t=53s) 
 
-**Thoughts**: 
+**Thoughts**: This should be good practice with GitHub & Git commands. I have a decent grasp of UNIX thanks to my UNIX I class.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 35: 3/9/21 Tuesday
 
 **Today's Progress**: 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
