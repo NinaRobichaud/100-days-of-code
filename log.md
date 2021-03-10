@@ -296,11 +296,14 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 35: 3/9/21 Tuesday
+### Day 35: 3/10/21 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: More research conducted for GitHub Pages, Git & GitHub in general. Continued working on my portfolio website. 
 
-**Thoughts**: 
+(Getting Started w/ GitHub Pages: https://www.youtube.com/watch?v=QyFcl_Fba-k)
+(Git & GitHub for Beginners: https://www.youtube.com/watch?v=RGOj5yH7evk)
+
+**Thoughts**: This GitHub workflow should also be useful for my other classes (Interactive Web Design & Web Design II). So far I've been confused on proper workflow. The portfolio site and my projects will be good practice. Not sure how exactly I want to set up my portfolio site, but it's a start.
 
 **Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
