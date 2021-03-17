@@ -307,23 +307,23 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 35: 3/15/21 Monday (ERROR with tweet, duplicate day 35. Oh well) 
 
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
-
-**Today's Progress**: 
+**Today's Progress**: Resumed Colt Steele's Udemy class (Web Dev Bootcamp 2021), reviewing CSS topics
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 36: 3/16/21 Tuesday
+
+**Today's Progress**: Submitted a JS income tax calculator
+
+**Thoughts**: I'm having trouble establishing a clear roadmap between my college classes and personal project. 
+
+**Link(s) to work**: 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 37: 3/17/21 Wednesday
 
 **Today's Progress**: 
 
