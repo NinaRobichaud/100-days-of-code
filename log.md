@@ -325,17 +325,19 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 37: 3/17/21 Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Continued Web Dev Bootcamp 2021 - CSS Selectors. Learned about system administation in UNIX.
 
-**Thoughts**: 
+**Thoughts**: Improving documentation on Notion. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 38: 3/29/21 Monday
 
-**Today's Progress**: 
+**Today's Progress**: Web Dev Bootcamp 2021 (WDB-21); HTML Essentials, Semantics, Forms & Tables, CSS Box Model. I'm revisiting the foundations of web dev to make sure I have a better understanding of what I'm building. 
 
-**Thoughts**: 
+**Thoughts**: Daily tweets don't work for me. I'm thinking of keeping daily 100DaysofCode entries on GitHub & eventually my portfolio site. I'd like to only tweet when I've actually learned/built something tangible. 
+
+Personal project idea: a website/Twitter bot that features Twitter's cat accounts. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
