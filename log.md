@@ -333,19 +333,26 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 38: 3/29/21 Monday
 
-**Today's Progress**: Web Dev Bootcamp 2021 (WDB-21); HTML Essentials, Semantics, Forms & Tables, CSS Box Model. I'm revisiting the foundations of web dev to make sure I have a better understanding of what I'm building. 
+**Today's Progress**: Web Dev Bootcamp 2021 (WDB-21); HTML Essentials. I'm revisiting the foundations of web dev to make sure I have a better understanding of what I'm building. 
 
 **Thoughts**: Daily tweets don't work for me. I'm thinking of keeping daily 100DaysofCode entries on GitHub & eventually my portfolio site. I'd like to only tweet when I've actually learned/built something tangible. 
 
-Personal project idea: a website/Twitter bot that features Twitter's cat accounts. 
+Personal project ideas: 
+- a website/Twitter bot that features Twitter's cat accounts 
+- Qbert style HTML5 browser game (inspired by 321 Penguins 'Hop' Flash game I used to play as a kid)
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 39: 3/30/21 Tuesday 
 
 **Today's Progress**: 
+- WDB-21; HTML Semantics, HTML Forms & Tables, CSS Box Model
+- Researched HTML5 game development 
+- jQuery, JSON quiz; still grasping how node.JS & Express work. 
 
-**Thoughts**: 
+**Thoughts**: Almost done getting through WDB-21 CSS section. Need to get through JS section so I can fully grasp the JS concepts I'm struggling with in my class. I also need to just go ahead and try to build something from scratch to help retain the information. 
+
+Notion is helpful for quickly getting my thoughts written down, but I'd like to try Obsidian's evergreen-style notetaking to help with comprehension & retention. Simply writing things down isn't helping me fully grasp the concepts. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
