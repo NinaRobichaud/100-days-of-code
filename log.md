@@ -56,7 +56,7 @@ I need to learn all Sec+ terms in Quizlet set this week.
 
 I've also been brainstorming on potential projects to work on. I think a portfolio website is a good place to start. I also want to try coding web app games.
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 12: 12/30/20 Wednesday 
 
@@ -66,7 +66,7 @@ Also continued with freeCodeCamp's CSS Basics
 
 **Thoughts**: Had some account issues with freeCodeCamp, resolved. I also brainstormed personal project ideas, saved in Google Drive for now.
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 13: 1/4/21 Monday 
 
@@ -88,7 +88,7 @@ Finished freeCodeCamp's CSS Basics. Progress slowed down due to Sec+, but still 
 
 I'd like to apply the Pomodoro technique to the freeCodeCamp cert and future coding projects. I'm thinking my first coding project will be my portfolio site that includes both "neenz_codes" & "neenz_art" content. Might use my portfolio as a landing page that offers users the option to be redirected to either section. 
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 15: 1/8/21 Fri
 
@@ -98,7 +98,7 @@ Studied for the Sec+ today & started freeCodeCamp's Applied Visual Design
 
 **Thoughts**: 
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 16: 1/11/21 Mon
 
@@ -110,7 +110,7 @@ Continued with Sec+ studying & freeCodeCamp's Responsive Web Design
 
 Web Page Design II class is going to provide real-world web design experience. Inspired to start my personal portfolio website! (Looking into using Gatsby) 
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 17: 1/12/21 Tues
 
@@ -122,7 +122,7 @@ Devs: what are your go-to accessibility website features? Would love to know!
 
 Tomorrow, I'd like to take the next step and start my personal portfolio site.
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 18: 1/15/21 Fri
 
@@ -133,7 +133,7 @@ Tomorrow, I'd like to take the next step and start my personal portfolio site.
 
 **Thoughts**: Started a Notion notebook for freeCodeCamp lessons. Very helpful, even formats code correctly. Will continue using this to build a personal coding reference.
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 19: 1/16/21 Saturday
 
@@ -143,7 +143,7 @@ Covered media queries, CSS-responsive images, and viewports
 
 **Thoughts**: Consistency doesn't have to be perfect. Knocked out a small lesson from freeCodeCamp. 
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 20: 1/19/21 Tuesday
 
@@ -153,7 +153,7 @@ Also worked on introductory UNIX assignments. I'm totally out of my element but 
 
 **Thoughts**: 
 
-**Link(s) to work**: https://www.freecodecamp.org/nina_robichaud
+**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 21: 2/1/21 Monday
 
@@ -166,7 +166,7 @@ Focusing more on projects and labs lately. My next goal is to create a repositor
 
 **Thoughts**: 
 
-**Link(s) to work**: https://github.com/NinaRobichaud
+**Link(s) to work**: https://github.com/NerdishNina
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 22: 2/2/21 Tuesday 
 
@@ -176,7 +176,7 @@ Started design proofs for my first website project, will share progress pictures
 
 **Thoughts**: Retyping freeCodeCamp's code helps me retain the patterns of making basic websites. 
 
-**Link(s) to work**: https://codepen.io/nina_robichaud/full/vYyOQgY
+**Link(s) to work**: https://codepen.io/NerdishNina/full/vYyOQgY
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 23: 2/3/21 Wednesday 
 
@@ -184,7 +184,7 @@ Started design proofs for my first website project, will share progress pictures
 
 **Thoughts**: Noticed patterns for web survey form. (ie. listing procedures, radio/check boxes, submit buttons, etc)
 
-**Link(s) to work**: https://codepen.io/nina_robichaud/pen/PobPOXb
+**Link(s) to work**: https://codepen.io/NerdishNina/pen/PobPOXb
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 24: 2/4/21 Thursday 
 
@@ -294,7 +294,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This should be good practice with GitHub & Git commands. I have a decent grasp of UNIX thanks to my UNIX I class.
 
-**Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
+**Link(s) to work**: https://github.com/NerdishNina/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/10/21 Wednesday
 
@@ -305,7 +305,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This GitHub workflow should also be useful for my other classes (Interactive Web Design & Web Design II). So far I've been confused on proper workflow. The portfolio site and my projects will be good practice. Not sure how exactly I want to set up my portfolio site, but it's a start.
 
-**Link(s) to work**: https://github.com/NinaRobichaud/ninarobichaud-website
+**Link(s) to work**: https://github.com/NerdishNina/ninarobichaud-website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/15/21 Monday (ERROR with tweet, duplicate day 35. Oh well) 
 
