@@ -294,7 +294,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This should be good practice with GitHub & Git commands. I have a decent grasp of UNIX thanks to my UNIX I class.
 
-**Link(s) to work**: https://github.com/NerdishNina/ninarobichaud-website
+**Link(s) to work**: https://github.com/NerdishNina/NerdishNina.github.io
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/10/21 Wednesday
 
@@ -305,7 +305,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This GitHub workflow should also be useful for my other classes (Interactive Web Design & Web Design II). So far I've been confused on proper workflow. The portfolio site and my projects will be good practice. Not sure how exactly I want to set up my portfolio site, but it's a start.
 
-**Link(s) to work**: https://github.com/NerdishNina/ninarobichaud-website
+**Link(s) to work**: https://github.com/NerdishNina/NerdishNina.github.io
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/15/21 Monday (ERROR with tweet, duplicate day 35. Oh well) 
 
