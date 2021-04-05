@@ -356,7 +356,7 @@ Notion is helpful for quickly getting my thoughts written down, but I'd like to 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 00: 4/5/21 Monday
 
 **Today's Progress**: 
 
