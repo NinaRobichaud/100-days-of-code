@@ -356,13 +356,15 @@ Notion is helpful for quickly getting my thoughts written down, but I'd like to 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 4/5/21 Monday
+### Day 40: 4/5/21 Monday
 
 **Today's Progress**: 
+- Finished first draft of homepage for client L'escape Travel by Courtney for my Web Design II class
+- Learned CSS techniques for organizing div containers and fixed a broken button div 
 
-**Thoughts**: 
+**Thoughts**: I think the website would benefit from CSS flex or grid to make it more responsive. I also need to double-check its accessibility features. I added alt text for the images, not sure if this is enough. 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/NerdishNina/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
