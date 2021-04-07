@@ -366,13 +366,16 @@ Notion is helpful for quickly getting my thoughts written down, but I'd like to 
 
 **Link(s) to work**: https://github.com/NerdishNina/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 41: Tuesday
 
-**Today's Progress**: 
+**Today's Progress**:
+- Finished Movie Web App project for Interactive Web Design
+- Learned how to use jQuery to access and display API data on webpage
 
 **Thoughts**: 
+- Couldn't figure out how to display API information with dropdown menu options... need to follow up 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/NerdishNina/MovieWebApp
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
