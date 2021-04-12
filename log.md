@@ -56,7 +56,7 @@ I need to learn all Sec+ terms in Quizlet set this week.
 
 I've also been brainstorming on potential projects to work on. I think a portfolio website is a good place to start. I also want to try coding web app games.
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 12: 12/30/20 Wednesday 
 
@@ -66,7 +66,7 @@ Also continued with freeCodeCamp's CSS Basics
 
 **Thoughts**: Had some account issues with freeCodeCamp, resolved. I also brainstormed personal project ideas, saved in Google Drive for now.
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 13: 1/4/21 Monday 
 
@@ -88,7 +88,7 @@ Finished freeCodeCamp's CSS Basics. Progress slowed down due to Sec+, but still 
 
 I'd like to apply the Pomodoro technique to the freeCodeCamp cert and future coding projects. I'm thinking my first coding project will be my portfolio site that includes both "neenz_codes" & "neenz_art" content. Might use my portfolio as a landing page that offers users the option to be redirected to either section. 
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 15: 1/8/21 Fri
 
@@ -98,7 +98,7 @@ Studied for the Sec+ today & started freeCodeCamp's Applied Visual Design
 
 **Thoughts**: 
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 16: 1/11/21 Mon
 
@@ -110,7 +110,7 @@ Continued with Sec+ studying & freeCodeCamp's Responsive Web Design
 
 Web Page Design II class is going to provide real-world web design experience. Inspired to start my personal portfolio website! (Looking into using Gatsby) 
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 17: 1/12/21 Tues
 
@@ -122,7 +122,7 @@ Devs: what are your go-to accessibility website features? Would love to know!
 
 Tomorrow, I'd like to take the next step and start my personal portfolio site.
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 18: 1/15/21 Fri
 
@@ -133,7 +133,7 @@ Tomorrow, I'd like to take the next step and start my personal portfolio site.
 
 **Thoughts**: Started a Notion notebook for freeCodeCamp lessons. Very helpful, even formats code correctly. Will continue using this to build a personal coding reference.
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 19: 1/16/21 Saturday
 
@@ -143,7 +143,7 @@ Covered media queries, CSS-responsive images, and viewports
 
 **Thoughts**: Consistency doesn't have to be perfect. Knocked out a small lesson from freeCodeCamp. 
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 20: 1/19/21 Tuesday
 
@@ -153,7 +153,7 @@ Also worked on introductory UNIX assignments. I'm totally out of my element but 
 
 **Thoughts**: 
 
-**Link(s) to work**: https://www.freecodecamp.org/nerdishnina
+**Link(s) to work**: https://www.freecodecamp.org/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 21: 2/1/21 Monday
 
@@ -166,7 +166,7 @@ Focusing more on projects and labs lately. My next goal is to create a repositor
 
 **Thoughts**: 
 
-**Link(s) to work**: https://github.com/NerdishNina
+**Link(s) to work**: https://github.com/NinaRobichaud
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 22: 2/2/21 Tuesday 
 
@@ -176,7 +176,7 @@ Started design proofs for my first website project, will share progress pictures
 
 **Thoughts**: Retyping freeCodeCamp's code helps me retain the patterns of making basic websites. 
 
-**Link(s) to work**: https://codepen.io/NerdishNina/full/vYyOQgY
+**Link(s) to work**: https://codepen.io/NinaRobichaud/full/vYyOQgY
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 23: 2/3/21 Wednesday 
 
@@ -184,7 +184,7 @@ Started design proofs for my first website project, will share progress pictures
 
 **Thoughts**: Noticed patterns for web survey form. (ie. listing procedures, radio/check boxes, submit buttons, etc)
 
-**Link(s) to work**: https://codepen.io/NerdishNina/pen/PobPOXb
+**Link(s) to work**: https://codepen.io/NinaRobichaud/pen/PobPOXb
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 24: 2/4/21 Thursday 
 
@@ -294,7 +294,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This should be good practice with GitHub & Git commands. I have a decent grasp of UNIX thanks to my UNIX I class.
 
-**Link(s) to work**: https://github.com/NerdishNina/NerdishNina.github.io
+**Link(s) to work**: https://github.com/NerdishNina/NinaRobichaud.github.io
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/10/21 Wednesday
 
@@ -305,7 +305,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This GitHub workflow should also be useful for my other classes (Interactive Web Design & Web Design II). So far I've been confused on proper workflow. The portfolio site and my projects will be good practice. Not sure how exactly I want to set up my portfolio site, but it's a start.
 
-**Link(s) to work**: https://github.com/NerdishNina/NerdishNina.github.io
+**Link(s) to work**: https://github.com/NerdishNina/NinaRobichaud.github.io
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/15/21 Monday (ERROR with tweet, duplicate day 35. Oh well) 
 
@@ -346,7 +346,7 @@ Personal project ideas:
 ### Day 39: 3/30/21 Tuesday 
 
 **Today's Progress**: 
-- WDB-21; HTML Semantics, HTML Forms & Tables, CSS Box Model
+- WDB-21; HTML Semantics
 - Researched HTML5 game development 
 - jQuery, JSON quiz; still grasping how node.JS & Express work. 
 
@@ -359,14 +359,15 @@ Notion is helpful for quickly getting my thoughts written down, but I'd like to 
 ### Day 40: 4/5/21 Monday
 
 **Today's Progress**: 
+- WDB-21; HTML Forms & Tables
 - Finished first draft of homepage for client L'escape Travel by Courtney for my Web Design II class
 - Learned CSS techniques for organizing div containers and fixed a broken button div 
 
 **Thoughts**: I think the website would benefit from CSS flex or grid to make it more responsive. I also need to double-check its accessibility features. I added alt text for the images, not sure if this is enough. 
 
-**Link(s) to work**: https://github.com/NerdishNina/lescapetravel-courtney
+**Link(s) to work**: https://github.com/NinaRobichaud/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 41: Tuesday
+### Day 41: 4/6/21 Tuesday
 
 **Today's Progress**:
 - Finished Movie Web App project for Interactive Web Design
@@ -375,39 +376,46 @@ Notion is helpful for quickly getting my thoughts written down, but I'd like to 
 **Thoughts**: 
 - Couldn't figure out how to display API information with dropdown menu options... need to follow up 
 
-**Link(s) to work**: https://github.com/NerdishNina/MovieWebApp
+**Link(s) to work**: https://github.com/NinaRobichaud/MovieWebApp
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 42: 4/7/21 Wednesday
 
 **Today's Progress**: 
+- WDB-21; The CSS Box Model (30%); Width & Height, Border & Border-Radius
+
+**Thoughts**: 
+
+**Link(s) to work**:
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 43: 4/8/21 Thursday
+
+**Today's Progress**: 
+- WDB-21; The CSS Box Model (50%); Padding, Margin
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 44: 4/10/21 Saturday
 
 **Today's Progress**: 
+- WDB-21; The CSS Box Model (60%); Display Property
 
 **Thoughts**: 
 
-**Link(s) to work**: 
+**Link(s) to work**:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 45: 4/12/21 Monday 
 
 **Today's Progress**: 
+- WDB-21; The CSS Box Model (100%); CSS Units Revisited, ems & rems
+- WDB-21; Other Assorted Useful CSS Properties;
+
+- Web Design II assignment 8; 2 webpages for L'escape Travel by Courtney website
 
 **Thoughts**: 
 
-**Link(s) to work**: 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/NinaRobichaud/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
