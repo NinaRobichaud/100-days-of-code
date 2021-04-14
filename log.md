@@ -296,7 +296,7 @@ I've been afraid to publish a technical blog, but I should go ahead and try. It'
 
 **Thoughts**: This GitHub workflow should also be useful for my other classes (Interactive Web Design & Web Design II). So far I've been confused on proper workflow. The portfolio site and my projects will be good practice. Not sure how exactly I want to set up my portfolio site, but it's a start.
 
-**Link(s) to work**: https://github.com/Nina-R/NinaRobichaud.github.io
+**Link(s) to work**: https://github.com/Nina-R/NinaR.github.io
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 35: 3/15/21 Monday (ERROR with tweet, duplicate day 35. Oh well) 
 
