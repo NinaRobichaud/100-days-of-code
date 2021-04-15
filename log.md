@@ -421,21 +421,27 @@ I'm interested in Node's application in browser gaming.
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 47: 4/14/21 Wednesday 
 
 **Today's Progress**: 
+- **WDB-21; Section 31 Our First Brush with Node** (80%)
 
 **Thoughts**: 
+- Finally finishing up freeCodeCamp's RWD course. I'm starting to grasp CSS more, but I still get confused about CSS Flex & Grid. Definitely need to revisit the CSS section of WDB-21.
 
-**Link(s) to work**: 
+**Link(s) to work**: https://www.freecodecamp.org/nina-r
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 48: 4/15/21 Thursday 
 
 **Today's Progress**: 
+- **freeCodeCamp Responsive Web Design (RWD)** (95%)
 
 **Thoughts**: 
+- Figured out how to insert fCC testing script into my own CodePen or local file (source: https://forum.freecodecamp.org/t/how-to-test-your-code/204027/10)
+- **VIEWPORT UNITS**; I noticed a vh unit directly caused section parsing
+- Going to revist my fCC RWD projects before submitting them for my certification. I relied heavily on the examples provided to understand what they were looking for. Need to attempt original projects on my own. 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://www.freecodecamp.org/nina-r
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
