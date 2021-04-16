@@ -443,13 +443,16 @@ I'm interested in Node's application in browser gaming.
 
 **Link(s) to work**: https://www.freecodecamp.org/nina-r
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 49: 4/16/21 Friday
 
 **Today's Progress**: 
+- Git commands (init, commit -m, status, push origin master)
+- Assignment 9; two more pages added to lescapetravel-courtney repo
 
 **Thoughts**: 
+- What's considered secure vs. insecure git push commands? Not sure. 
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/Nina-R/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
