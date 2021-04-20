@@ -454,13 +454,17 @@ I'm interested in Node's application in browser gaming.
 
 **Link(s) to work**: https://github.com/Nina-R/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 50: 4/19/21 Monday 
 
 **Today's Progress**: 
+- Added Review, Contact Info & COVID-19 pages to travel website
+- Figured out how to use GitHub Desktop on my Macbook to push commits from a local machine to a remote repo 
 
 **Thoughts**: 
+- Website needs more responsive coding 
+- Design could use some more polish; proper hero image Index page, more involved About pages, infographics, Facebook review integration
 
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/Nina-R/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
