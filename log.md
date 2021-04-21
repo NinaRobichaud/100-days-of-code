@@ -466,15 +466,18 @@ I'm interested in Node's application in browser gaming.
 
 **Link(s) to work**: https://github.com/Nina-R/lescapetravel-courtney
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 51: 4/20/21 Tuesday 
 
 **Today's Progress**: 
+- Working with Data and APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
+- fetch(), tabular data, Live Server extension in Visual Studio Code
 
 **Thoughts**: 
+- The Coding Train examples help a lot with grasping JS concepts. 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 52: 4/21/21 Wednesday 
 
 **Today's Progress**: 
 
