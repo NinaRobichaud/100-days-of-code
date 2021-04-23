@@ -469,33 +469,46 @@ I'm interested in Node's application in browser gaming.
 ### Day 51: 4/20/21 Tuesday 
 
 **Today's Progress**: 
-- Working with Data and APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
+- The Coding Train: Working with Data & APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
 - fetch(), tabular data, Live Server extension in Visual Studio Code
 
 **Thoughts**: 
-- The Coding Train examples help a lot with grasping JS concepts. 
+- The Coding Train examples help a lot with grasping JS concepts. Such as:
+- How fetch() works with GET response. Using 
+- Async/Await JS functions to facilitate JSON 
+- Arrow functions, methods to convert string to number values when dealing with CSV (spreadsheet) files
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 52: 4/21/21 Wednesday 
 
 **Today's Progress**: 
+- The Coding Train: Working with Data & APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
+- Graphing with Chart.js, & JSON 
 
 **Thoughts**: 
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 53: 4/22/21 Thursdasy 
 
 **Today's Progress**: 
+- The Coding Train: Working with Data & APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
+- Mapping Geolocation with Leaflet.js, Open Street Map & Refreshing data with setInterval() 
 
 **Thoughts**: 
+- Used International Space Station (ISS) API, Leaflet.js and Open Street Map
+- How to attribute to Open Source materials like Leaflet & Creative Commons properties sources like Open Street Map
+- Variable (const, let) placement is key. Making a variable global is not always appropriate
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 54: 4/23/21 Friday 
 
 **Today's Progress**: 
+- Mr. Web Designer: Complete Responsive Hospital Website Design [ HTML - CSS - JS - JQUERY - BOOTSTRAP ] Step By Step: https://www.youtube.com/watch?v=pAzTbmkAsU8
+- Redoing travel website completely. Design & responsive coding overhaul 
+- Tutorial is showing me how to think of responsive coding workflow. It's helping me making connections. I'm making changes to font, color, and images as I go. 
 
 **Thoughts**: 
 
