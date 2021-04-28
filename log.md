@@ -494,7 +494,7 @@ I'm interested in Node's application in browser gaming.
 
 **Today's Progress**: 
 - The Coding Train: Working with Data & APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
-- Mapping Geolocation with Leaflet.js, Open Street Map & Refreshing data with setInterval() 
+  - Mapping Geolocation with Leaflet.js, Open Street Map & Refreshing data with setInterval() 
 
 **Thoughts**: 
 - Used International Space Station (ISS) API, Leaflet.js and Open Street Map
@@ -511,32 +511,54 @@ I'm interested in Node's application in browser gaming.
 - Tutorial is showing me how to think of responsive coding workflow. It's helping me making connections. I'm making changes to font, color, and images as I go. 
 
 **Thoughts**: 
+- Travel website is *far* more responsive now. I'm referencing the YouTube video for guidance, but making changes to customize the website for my own purposes
+- Hamburger menu populating for mobile or small desktop windows is awesome! Figured out how to change the hover color of the hamburger menu.
+- I really like using this:
+
+  root(--color_name): #fff; 
+  
+  to create custom global variables for each color in my color palette. It makes adding colors to specific elements in my CSS file really easy.
+
+**Link(s) to work**: https://github.com/Nina-R/lescapetravel-courtney
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 55: 4/26/21 Monday 
+
+**Today's Progress**: 
+- Talked to prof about travel website design. Keeping it simple, with separate pages. Client's demographic is Facebook-intensive, so older clients are highly likely. 
+- Color palette is influenced by client's logo 
+- Noticed spacing issues with other webpages, even when using index.html code. Prof suggested using id's for each div and controlling the spacing on styles.css 
+
+**Thoughts**: 
+- Need to play with flex & grid concepts on other webpages. 
+- Need to decide which pictures I want to use for the final website (Unsplash.com for creative commons pics) 
+
+**Link(s) to work**: https://github.com/Nina-R/lescapetravel-courtney
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Day 56: 4/27/21 Tuesday
+
+**Today's Progress**: 
+- UNIX labs & homework (C shell, administrative commands)
+
+- The Coding Train: Working with Data & APIs in JS: https://www.youtube.com/playlist?list=PLRqwX-V7Uu6YxDKpFzf_2D84p0cyk4T7X
+  - Workflow: downloading iTerm
+
+**Thoughts**: 
+- I'm figuring out how to glean specific UNIX info for web dev purposes
+- Played with iTerm as an alternative to my Macbook's default Terminal. So far, it's really useful 
+- Need to spend time practicing GitHub workflow procedures with iTerm
 
 **Link(s) to work**: 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
+### Day 57: 4/28/21 Wednesday 
 
 **Today's Progress**: 
+- UNIX labs, Test & Debugging assignment (C shell, debugging commands & procedures)
+
+- Created GitHub repo for Note Web App assignment 
 
 **Thoughts**: 
 
-**Link(s) to work**: 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Day 00: 
-
-**Today's Progress**: 
-
-**Thoughts**: 
-
-**Link(s) to work**: 
+**Link(s) to work**: https://github.com/Nina-R/note_app
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Day 00: 
 
